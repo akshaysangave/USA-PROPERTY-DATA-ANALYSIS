@@ -1,4 +1,7 @@
 # USA PROPERTY DATA ANALYSIS
+
+![INTRO](https://github.com/user-attachments/assets/674b9b37-ab99-4e10-9cbe-a2cb2cf623c1)
+
 "Comprehensive analysis of USA property data focusing on sales trends, property characteristics, and neighborhood insights to guide investment and marketing strategies.
 
 ## INTRODUCTION
